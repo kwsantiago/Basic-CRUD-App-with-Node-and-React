@@ -1,5 +1,5 @@
 # Basic CRUD App with Node and React
-
+Using this [guide](https://developer.okta.com/blog/2018/07/10/build-a-basic-crud-app-with-node-and-react#add-the-posts-manager-page-to-your-node--react-app).
 ##
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
