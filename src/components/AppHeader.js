@@ -11,9 +11,9 @@ import {
 import LoginButton from './LoginButton';
 
 const styles = {
-   flex: {
-	flex: 1,
-   },
+  flex: {
+    flex: 1,
+  },
 };
 
 const AppHeader = ({ classes }) => (
