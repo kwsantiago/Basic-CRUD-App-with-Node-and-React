@@ -4,7 +4,6 @@ import { withRouter, Route, Redirect, Link } from 'react-router-dom';
 import {
   withStyles,
   Typography,
-  Fab,
   IconButton,
   Paper,
   List,
@@ -12,6 +11,7 @@ import {
   ListItemText,
   ListItemSecondaryAction,
 } from '@material-ui/core';
+import Fab from '@material-ui/core/Fab';
 import { Delete as DeleteIcon, Add as AddIcon } from '@material-ui/icons';
 import moment from 'moment';
 import { find, orderBy } from 'lodash';
